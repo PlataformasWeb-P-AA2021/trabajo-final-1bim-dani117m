@@ -40,7 +40,8 @@ Dada la información de la carpeta ***data***. Realizar las siguientes tareas:
 		* Los establecimientos ordenados por nombre de parroquia que tengan más de 20 profesores y la cadena "Permanente" en tipo de educación.
 		* Todos los establecimientos ordenados por sostenimiento y tengan código de distrito 11D02.
 
-Guía de uso del proyecto final
+Guía de uso del proyecto final:
+
 Para iniciar con la creación del proyecto debemos ejecutar primero:
 Genera_tablas.py el cual generada un sqllite con las tablas vacías.
 A continuación, se ejecuta ingreso del ingreso de datos que seguiría el siguiente orden:
