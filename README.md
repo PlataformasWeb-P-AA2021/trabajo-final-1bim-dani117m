@@ -39,3 +39,13 @@ Dada la información de la carpeta ***data***. Realizar las siguientes tareas:
 	* consulta5.py
 		* Los establecimientos ordenados por nombre de parroquia que tengan más de 20 profesores y la cadena "Permanente" en tipo de educación.
 		* Todos los establecimientos ordenados por sostenimiento y tengan código de distrito 11D02.
+
+Guía de uso del proyecto final
+Para iniciar con la creación del proyecto debemos ejecutar primero:
+Genera_tablas.py el cual generada un sqllite con las tablas vacías.
+A continuación, se ejecuta ingreso del ingreso de datos que seguiría el siguiente orden:
+1.Ingresa_provincias ---> 2.Ingresa_cantones ---> 3.Ingresa_parroquias ---> 4.Ingresa_establecimiento
+
+Una vez se realiza este proceso la base de datos está completamente funcional y lista para que se realicen consultas.
+En caso de la ejecución de las consultas, las misma tiene un orden por ello se puede ejecutar cualquiera de ellas en cualquier momento.
+
